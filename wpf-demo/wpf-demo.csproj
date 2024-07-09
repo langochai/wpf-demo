@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>wpf_demo</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <StartupObject>wpf_demo.App</StartupObject>
+  </PropertyGroup>
+
+</Project>
