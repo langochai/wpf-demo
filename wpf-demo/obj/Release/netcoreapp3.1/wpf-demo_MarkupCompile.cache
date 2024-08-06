@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Latitude 5520\Desktop\code playground\wpf-demo\wpf-demo\obj\Debug\netcoreapp3.1\
+C:\Users\Latitude 5520\Desktop\code playground\wpf-demo\wpf-demo\obj\Release\netcoreapp3.1\
 wpf_demo
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Latitude 5520\Desktop\code playground\wpf-demo\wpf-demo\App.xaml
 11407045341
 
